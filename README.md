@@ -35,7 +35,7 @@ To provide stakeholders with:
 
 ### 📈 Ride Volume Over Time  
 Identifies booking trends and peak hours.  
-![Ride Volume](dashboard-images/uber_dashboard1.png)
+![Ride Volume](dashboard-image/image.png)
 
 ---
 
