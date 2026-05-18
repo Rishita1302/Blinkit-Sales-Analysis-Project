@@ -1,8 +1,8 @@
-# 🚕 Uber Data Analysis Dashboard  
+# 🛒 Blinkit Data Analysis Dashboard  
 
-An end-to-end data analytics project to uncover insights from Uber’s booking data. The project uses Excel for data cleaning, Power BI for dashboard creation, and SQL for solving specific business questions.  
+An end-to-end data analytics project to uncover insights from Blinkit’s sales performance, customer satisfaction, and inventory distribution. The project uses Power BI for dashboard creation, Power Query for data transformation, and DAX for building interactive KPIs and business insights.
 
-This repository showcases how raw data can be transformed into a **dynamic dashboard** to help stakeholders understand booking trends, customer behavior, operational bottlenecks, and revenue drivers.  
+This repository demonstrates how raw retail and grocery sales data can be transformed into a dynamic business intelligence dashboard that helps stakeholders monitor sales trends, customer preferences, outlet performance, and inventory optimization.  
 
 ---
 
@@ -11,69 +11,64 @@ This repository showcases how raw data can be transformed into a **dynamic dashb
 - **Power Query**: Data cleaning & transformation  
 - **DAX (Data Analysis Expressions)**: For calculated columns and measures  
 - **PostgreSQL**: Solved analytical queries for business questions  
-- **Excel**: Data preprocessing  
+- **Excel**: Data source & preprocessing  
 
 ---
 
 ## 📂 Data Source
-A **synthetic dataset** was created to simulate Uber’s bookings, cancellations, customer details, and payment methods for the month of June.  
+A **synthetic dataset** used in this project contains Blinkit grocery sales data, including outlet information, item categories, customer ratings, sales performance and inventory details.  
 
 ---
 
 ## ✨ Features & Highlights
 
 ### 🏢 **Business Problem**  
-Uber wants to understand user trends, booking performance, and reasons behind cancellations to improve service quality and revenue.  
+Blinkit wants to analyze its sales performance, customer satisfaction, and inventory distribution to identify growth opportunities and improve operational efficiency.  
 
 ### 🎯 **Goal of the Dashboard**
 To provide stakeholders with:  
-- Clear **KPIs and trends** for monitoring operations  
-- Insights into **customer behavior & satisfaction**  
-- Areas of improvement for **reducing cancellations**  
+- Clear **KPIs and sales trends** for business monitoring  
+- Insights into **customer preferences & outlet performance**  
+- Data-driven decisions for **inventory and sales optimization**   
 
 ## 🔑 **Key Visuals (Brief Walkthrough)**  
 
-### 📈 Ride Volume Over Time  
-Identifies booking trends and peak hours.  
+### 📈 Total Sales & KPI Overview 
+Provides a high-level summary of total sales, average sales, number of items, and average ratings. 
 ![Ride Volume](dashboard-image/image.png)
 
 ---
 
-### 📊 Booking Status Breakdown  
-Highlights success rates and cancellations.  
+### 🏬 Outlet Establishment Trend  
+Shows how outlet establishments have grown over the years.  
 ![Booking Status](dashboard-images/uber_dashboard1.png)
 
 ---
 
-### 🚗 Top Vehicle Types by Ride Distance  
-Reveals the most-used services based on ride distance.  
+### 🥛 Fat Content & Outlet Analysis  
+Analyzes customer preferences based on low-fat and regular products across outlets.  
 ![Top Vehicle Types](dashboard-images/uber_dashboard2.png)
 
 ---
 
-### ⭐ Average Customer Ratings by Vehicle Type  
+### 🌍 Outlet Location & Size Analysis  
 Measures service quality across vehicle types.  
 ![Customer Ratings](dashboard-images/uber_dashboard5.png)
 
 ---
 
-### ❌ Canceled Rides Reasons  
-Shows why customers and drivers cancel rides.  
-![Cancelled Reasons](dashboard-images/uber_dashboard4.png)
-
----
-
 ## 📊 **Business Impact & Insights**
-- Cancellation rate (~32%) indicates operational gaps.  
-- *Go Priority* leads in distance covered and ratings.  
-- Cash & Debit Cards dominate payment methods; UPI is underutilized.  
-- Balanced ratings between customers and drivers reflect mutual satisfaction.  
+- Tier 3 outlets generated the highest sales contribution among all outlet locations.  
+- Fruits, snacks, and household items were among the top-performing categories.  
+- Regular-fat products contributed more sales compared to low-fat products.  
+- Medium-sized outlets showed stronger overall sales performance.
+- Customer ratings remained consistent across outlet types, indicating stable service quality.  
 
 ---
 
 ## 👩‍💻 Author
-**Ajmeri Khatun**  
+**Rishita Kumari**  
 
-📅 July 2025  
+📅 April 2026  
 
 ---
