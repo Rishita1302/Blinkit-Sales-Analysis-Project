@@ -41,19 +41,19 @@ Provides a high-level summary of total sales, average sales, number of items, an
 
 ### 🏬 Outlet Establishment Trend  
 Shows how outlet establishments have grown over the years.  
-![Booking Status](dashboard-images/outlet.jpg)
+![Booking Status](dashboard-image/outlet.jpg)
 
 ---
 
 ### 🥛 Fat Content & Outlet Analysis  
 Analyzes customer preferences based on low-fat and regular products across outlets.  
-![Top Vehicle Types](dashboard-images/salesblinkit.jpg)
+![Top Vehicle Types](dashboard-image/salesblinkit.jpg)
 
 ---
 
 ### 🌍 Outlet Location & Size Analysis  
 Measures service quality across vehicle types.  
-![Customer Ratings](dashboard-images/outlet2.jpg)
+![Customer Ratings](dashboard-image/outlet2.jpg)
 
 ---
 
